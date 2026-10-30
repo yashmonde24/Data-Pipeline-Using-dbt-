@@ -1,0 +1,10 @@
+version: 2 
+
+model:
+    - name: bronze_date # match the filename of the model
+      config:
+        +materialized: view 
+
+    - name: bronze_product
+      config:
+        +materailized: view 

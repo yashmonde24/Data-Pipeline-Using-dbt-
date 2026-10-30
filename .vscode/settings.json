@@ -1,0 +1,5 @@
+{
+    "dbt.dbtIntegration": "core",
+    "dbt.dbtPythonPathOverride": "C:\\DBT\\.venv\\Scripts\\python.exe",
+    "dbt.dbtCustomRunnerImport": "from dbt.cli.main import dbtRunner"
+}
