@@ -11,4 +11,4 @@ sources: # list inside dict
         - name: dim_store
         - name: dim_product
         - name: dim_customer
-
+        - name: items 
